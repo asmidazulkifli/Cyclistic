@@ -29,5 +29,5 @@ From the data findings, the team will design a new marketing strategy to convert
 
 ##### For further details on data exploration, please check file - Data Exploration.sql (https://github.com/asmidazulkifli/Cyclistic)
 
-## Result - Data Visualization
+### Data Visualization
 ![dashboard01](https://user-images.githubusercontent.com/127869781/229340480-cf099e06-0bc6-4ba6-9d23-0eceffafed99.png)
