@@ -1,4 +1,4 @@
-# Cyclistic
+### Cyclistic Bike Share
 ##### Google Data Analytics Capstone Project - Cyclistic Bike-Share
 
 ##### Data Set - https://divvy-tripdata.s3.amazonaws.com/index.html 
